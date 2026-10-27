@@ -13,32 +13,32 @@
 <div align="center">
 
 <p>
-  <img src="https://img.shields.io/badge/Moves%20played-12-0284c7?style=flat-square" alt="Moves played: 12" />
+  <img src="https://img.shields.io/badge/Moves%20played-13-0284c7?style=flat-square" alt="Moves played: 13" />
   <img src="https://img.shields.io/badge/Games%20completed-1-4f46e5?style=flat-square" alt="Games completed: 1" />
   <img src="https://img.shields.io/badge/Players-1-9333ea?style=flat-square" alt="Players: 1" />
 </p>
 
-Everyone is welcome to play! **Click an empty square** to place the next mark. It's **❌**'s turn.
+Everyone is welcome to play! **Click an empty square** to place the next mark. It's **⭕**'s turn.
 
 <table>
   <tr>
-    <td><a href="https://github.com/mchittineni/community-tic-tac-toe/issues/new?title=ttt%7Cmove%7Cx%7C1&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/blank-1.svg" width="84" alt="Play square 1" /></a></td>
-    <td><a href="https://github.com/mchittineni/community-tic-tac-toe/issues/new?title=ttt%7Cmove%7Cx%7C2&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/blank-2.svg" width="84" alt="Play square 2" /></a></td>
-    <td><a href="https://github.com/mchittineni/community-tic-tac-toe/issues/new?title=ttt%7Cmove%7Cx%7C3&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/blank-3.svg" width="84" alt="Play square 3" /></a></td>
+    <td><a href="https://github.com/mchittineni/community-tic-tac-toe/issues/new?title=ttt%7Cmove%7Co%7C1&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/blank-1.svg" width="84" alt="Play square 1" /></a></td>
+    <td><a href="https://github.com/mchittineni/community-tic-tac-toe/issues/new?title=ttt%7Cmove%7Co%7C2&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/blank-2.svg" width="84" alt="Play square 2" /></a></td>
+    <td><a href="https://github.com/mchittineni/community-tic-tac-toe/issues/new?title=ttt%7Cmove%7Co%7C3&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/blank-3.svg" width="84" alt="Play square 3" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/mchittineni/community-tic-tac-toe/issues/new?title=ttt%7Cmove%7Cx%7C4&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/blank-4.svg" width="84" alt="Play square 4" /></a></td>
+    <td><a href="https://github.com/mchittineni/community-tic-tac-toe/issues/new?title=ttt%7Cmove%7Co%7C4&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/blank-4.svg" width="84" alt="Play square 4" /></a></td>
     <td><img src="assets/x.svg" width="84" alt="X" /></td>
-    <td><a href="https://github.com/mchittineni/community-tic-tac-toe/issues/new?title=ttt%7Cmove%7Cx%7C6&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/blank-6.svg" width="84" alt="Play square 6" /></a></td>
+    <td><a href="https://github.com/mchittineni/community-tic-tac-toe/issues/new?title=ttt%7Cmove%7Co%7C6&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/blank-6.svg" width="84" alt="Play square 6" /></a></td>
   </tr>
   <tr>
     <td><img src="assets/o.svg" width="84" alt="O" /></td>
-    <td><a href="https://github.com/mchittineni/community-tic-tac-toe/issues/new?title=ttt%7Cmove%7Cx%7C8&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds."><img src="assets/blank-8.svg" width="84" alt="Play square 8" /></a></td>
+    <td><img src="assets/x.svg" width="84" alt="X" /></td>
     <td><img src="assets/o.svg" width="84" alt="O" /></td>
   </tr>
 </table>
 
-Tired of waiting? [Let the bot 🤖 play ❌](https://github.com/mchittineni/community-tic-tac-toe/issues/new?title=ttt%7Cmove%7Cx%7Cbot&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds.)
+Tired of waiting? [Let the bot 🤖 play ⭕](https://github.com/mchittineni/community-tic-tac-toe/issues/new?title=ttt%7Cmove%7Co%7Cbot&body=Just+press+%27Submit+new+issue%27+without+editing+the+title.+The+board+updates+in+about+30+seconds.)
 
 The last game ended in a draw 🤝
 
@@ -50,11 +50,11 @@ The last game ended in a draw 🤝
 
 | Team | Square | Played by |
 | :--: | :----: | --------- |
+| ❌ | 8 | TicTacToeBot 🤖 (asked by [@mchittineni](https://github.com/mchittineni)) |
 | ⭕ | 9 | [@mchittineni](https://github.com/mchittineni) |
 | ❌ | 5 | TicTacToeBot 🤖 (asked by [@mchittineni](https://github.com/mchittineni)) |
 | ⭕ | 7 | [@mchittineni](https://github.com/mchittineni) |
 | ❌ | 4 | [@mchittineni](https://github.com/mchittineni) |
-| ⭕ | 6 | TicTacToeBot 🤖 (asked by [@mchittineni](https://github.com/mchittineni)) |
 
 <!-- TICTACTOE:END -->
 
