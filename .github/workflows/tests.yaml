@@ -1,0 +1,25 @@
+name: 🧪 Tests
+
+# Moves are committed with [skip ci], so this runs for code changes, not gameplay.
+on:
+  push:
+    branches: [main]
+    paths: ['game/**', '.github/workflows/**']
+  pull_request:
+    paths: ['game/**', '.github/workflows/**']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    name: Unit tests
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      # Same interpreter the play workflow uses, so tests match production.
+      - name: Run tests
+        run: python3 -m unittest discover -s game -v
