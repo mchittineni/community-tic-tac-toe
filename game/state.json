@@ -1,29 +1,35 @@
 {
   "board": [
-    "x",
-    "o",
-    "o",
-    "x",
-    "x",
     "",
-    "o",
-    "x",
-    "o"
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
   ],
-  "turn": "o",
-  "last_mover": "mchittineni",
-  "last_result": "The last game ended in a draw \ud83e\udd1d",
+  "turn": "x",
+  "last_mover": null,
+  "last_result": "\u2b55 won the last game. Winning move by TicTacToeBot \ud83e\udd16 \ud83c\udfc6",
   "stats": {
-    "moves": 17,
-    "games": 1,
+    "moves": 18,
+    "games": 2,
     "x_wins": 0,
-    "o_wins": 0,
+    "o_wins": 1,
     "draws": 1
   },
   "players": [
     "mchittineni"
   ],
   "recent": [
+    {
+      "team": "o",
+      "cell": 6,
+      "user": "mchittineni",
+      "bot": true
+    },
     {
       "team": "x",
       "cell": 4,
@@ -47,13 +53,9 @@
       "cell": 2,
       "user": "mchittineni",
       "bot": true
-    },
-    {
-      "team": "x",
-      "cell": 8,
-      "user": "mchittineni",
-      "bot": true
     }
   ],
-  "leaderboard": {}
+  "leaderboard": {
+    "TicTacToeBot": 1
+  }
 }
