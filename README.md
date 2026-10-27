@@ -6,6 +6,11 @@
 
 <a href="https://github.com/mchittineni/community-tic-tac-toe/actions/workflows/play.yaml"><img src="https://github.com/mchittineni/community-tic-tac-toe/actions/workflows/play.yaml/badge.svg" alt="Play workflow" /></a>
 <a href="https://github.com/mchittineni/community-tic-tac-toe/actions/workflows/tests.yaml"><img src="https://github.com/mchittineni/community-tic-tac-toe/actions/workflows/tests.yaml/badge.svg" alt="Tests" /></a>
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/mchittineni/community-tic-tac-toe/pulls)
+
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/mchittineni)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-24292F?style=for-the-badge&logo=githubsponsors&logoColor=EA4AAA)](https://github.com/sponsors/mchittineni)
 
 </div>
 
