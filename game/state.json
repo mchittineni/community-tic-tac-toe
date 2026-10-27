@@ -2,7 +2,7 @@
   "board": [
     "x",
     "o",
-    "",
+    "o",
     "",
     "x",
     "",
@@ -10,11 +10,11 @@
     "x",
     "o"
   ],
-  "turn": "o",
-  "last_mover": "mchittineni",
+  "turn": "x",
+  "last_mover": "TicTacToeBot",
   "last_result": "The last game ended in a draw \ud83e\udd1d",
   "stats": {
-    "moves": 15,
+    "moves": 16,
     "games": 1,
     "x_wins": 0,
     "o_wins": 0,
@@ -24,6 +24,12 @@
     "mchittineni"
   ],
   "recent": [
+    {
+      "team": "o",
+      "cell": 3,
+      "user": "mchittineni",
+      "bot": true
+    },
     {
       "team": "x",
       "cell": 1,
@@ -47,12 +53,6 @@
       "cell": 9,
       "user": "mchittineni",
       "bot": false
-    },
-    {
-      "team": "x",
-      "cell": 5,
-      "user": "mchittineni",
-      "bot": true
     }
   ],
   "leaderboard": {}
